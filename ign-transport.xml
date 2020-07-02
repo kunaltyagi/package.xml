@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<package format="2">
+    <name>ignition-transport8</name>
+    <version>8.0.0</version>
+    <description>ignition-transport</description>
+    <maintainer email="info@openrobotics.org">OSRF</maintainer>
+    <license>APACHE-2.0</license>
+
+    <depend>ignition-cmake2</depend>
+    <depend>ignition-tools</depend>
+
+    <depend>libzmq3-dev</depend>
+    <depend>libzmqpp-dev</depend>
+
+</package>

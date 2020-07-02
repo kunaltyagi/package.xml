@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<package format="2">
+    <name>ignition-fuel-tools4</name>
+    <version>4.0.0</version>
+    <description>ignition-fuel-tools</description>
+    <maintainer email="info@openrobotics.org">OSRF</maintainer>
+    <license>APACHE-2.0</license>
+
+    <depend>ignition-cmake2</depend>
+    <depend>ignition-common3</depend>
+    <depend>ignition-msgs5</depend>
+    <depend>ignition-tools</depend>
+
+</package>

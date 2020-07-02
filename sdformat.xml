@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<package format="2">
+    <name>sdformat9</name>
+    <version>9.0.0</version>
+    <description>sdformat</description>
+    <maintainer email="info@openrobotics.org">OSRF</maintainer>
+    <license>APACHE-2.0</license>
+
+    <depend>ignition-math6</depend>
+    <depend>ignition-tools</depend>
+
+    <depend>libboost-system-dev</depend>
+    <depend>libtinyxml-dev</depend>
+    <depend>libxml2-utils</depend>
+    <depend>ruby-dev</depend>
+    <depend>ruby</depend>
+
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<package format="2">
+    <name>libpcl-all-dev</name>
+    <version>1.11.0</version>
+    <description>PCL</description>
+    <maintainer email="tyagi.kunal@live.com">Kunal Tyagi</maintainer>
+    <license>BSD3</license>
+
+    <depend>vtk</depend>
+    <depend>libflann-dev</depend>
+    <depend>libeigen3-dev</depend>
+
+    <test_depend>googletest</test_depend>
+</package>
