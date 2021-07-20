@@ -7,7 +7,7 @@
     <maintainer email="info@openrobotics.org">OSRF</maintainer>
     <license>APACHE-2.0</license>
 
-    <depend>ignition-common2</depend>
+    <depend>ignition-common3</depend>
     <depend>ignition-fuel-tools</depend>
     <depend>ignition-math6</depend>
     <depend>ignition-msgs5</depend>

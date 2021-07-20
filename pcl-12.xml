@@ -2,7 +2,7 @@
 
 <package format="2">
     <name>libpcl-all-dev</name>
-    <version>1.11.0</version>
+    <version>1.12.0</version>
     <description>PCL</description>
     <maintainer email="tyagi.kunal@live.com">Kunal Tyagi</maintainer>
     <license>BSD3</license>
